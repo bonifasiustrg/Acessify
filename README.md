@@ -1,6 +1,6 @@
-# Acessify App - Hackfest 2023
+# Acessify App - Four Rangers Team
 
-## Team Description
+## Description
 Hacker
 - Bonifasius Tarigan
 - Herlin Priatna
